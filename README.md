@@ -1,16 +1,25 @@
-# nest
+## NEST — Elderly Care App
 
-A new Flutter project.
+NEST is a mobile app concept designed to help senior citizens maintain their independence while staying connected with their families.
 
-## Getting Started
+### Interactive Figma Prototype
 
-This project is a starting point for a Flutter application.
+**Explore the NEST Prototype** 
+ https://www.figma.com/make/KnkXZgX6I5dFdmruEG1NWr/Design-NEST-Mobile-App-UI?code-node-id=0-6&p=f&t=ZTcdQRQHF78vq993-0&fullscreen=1
 
-A few resources to get you started if this is your first Flutter project:
+### Key Features
+- Daily check-ins
+- Medicine reminders
+- Pension and government scheme information
+- Safe payment guidance
+- Emergency help
+- Family dashboard
+- Scam awareness
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Technology
+- Flutter
+- Dart
+- Firebase integration planned
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Project Status
+This project is under development. The Figma link provides the interactive design prototype. Refer to the source code for the current implementation status.
